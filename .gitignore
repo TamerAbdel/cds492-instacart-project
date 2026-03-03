@@ -1,8 +1,5 @@
-# Ignore raw data
-data/
+
 
 # Ignore system files
 .DS_Store
 
-# Ignore large csv files just in case
-*.csv
